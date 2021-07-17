@@ -1,0 +1,5 @@
+{
+    "require": {
+        "azemat/chameleon-framework": "^1.0"
+    }
+}
